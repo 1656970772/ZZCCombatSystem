@@ -1,0 +1,159 @@
+# ========================================
+
+# Unreal Engine
+
+# ========================================
+
+# Build artifacts
+
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Logs
+
+*.log
+
+# Crash reports
+
+Saved/Crashes/
+
+# Autosaves & backups
+
+Saved/Autosaves/
+Saved/Backup/
+
+# Local configs
+
+Saved/Config/WindowsEditor/
+
+# Packaged builds
+
+*.pak
+*.chunk
+*.ucas
+*.utoc
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# ========================================
+
+# Unreal Generated Project Files
+
+# ========================================
+
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Visual Studio generated
+
+.vs/
+*.suo
+*.user
+*.userprefs
+.vsconfig
+
+# Unreal project files
+
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# ========================================
+
+# Rider / JetBrains
+
+# ========================================
+
+# Rider IDE config
+
+.idea/
+
+# Rider workspace files
+
+*.sln.iml
+*.DotSettings.user
+
+# Rider caches
+
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# RiderLink plugin build artifacts
+
+Plugins/Developer/RiderLink/Binaries/
+Plugins/Developer/RiderLink/Intermediate/
+
+# ========================================
+
+# VSCode
+
+# ========================================
+
+.vscode/
+
+# ========================================
+
+# OS files
+
+# ========================================
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# ========================================
+
+# C++ Build Artifacts
+
+# ========================================
+
+*.o
+*.obj
+*.lib
+*.dll
+*.exe
+*.so
+*.dylib
+*.a
+
+# ========================================
+
+# Unreal Derived Data
+
+# ========================================
+
+DerivedDataCache/
+
+# ========================================
+
+# Misc
+
+# ========================================
+
+*.tmp
+*.temp
+*.cache
+
+# ========================================
+
+# Unreal auto-generated headers
+
+# ========================================
+
+*.generated.h
